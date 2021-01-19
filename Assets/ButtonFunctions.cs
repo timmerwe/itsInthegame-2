@@ -7,7 +7,7 @@ public class ButtonFunctions : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(13);
     }
 
     public void QuitGame()

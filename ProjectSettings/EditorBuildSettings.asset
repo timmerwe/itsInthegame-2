@@ -44,4 +44,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Tilemap 2 (2).unity
     guid: bf6180f3deaef5d4ca336449f0117acd
+  - enabled: 1
+    path: Assets/Introductie.unity
+    guid: 472e31decd36f3743af9cc656207f5b3
   m_configObjects: {}
