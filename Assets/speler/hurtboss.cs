@@ -21,7 +21,7 @@ public class hurtboss : MonoBehaviour
     {
         if (other.gameObject.name == "MonD_01")
         {
-            other.gameObject.GetComponent<healthenemy>().hurtenemy(damagetogive1);
+            other.gameObject.GetComponent<healthboss>().hurtenemy(damagetogive1);
         }
     }
 }
