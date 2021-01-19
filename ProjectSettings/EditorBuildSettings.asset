@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/StartScreen.unity
+    guid: ef68ab9bb0caa44b6a9210e854a30ea3
+  - enabled: 1
     path: Assets/Tilemap.unity
     guid: 978662cc4ebffd74783c85e50d13c605
   - enabled: 1
@@ -38,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/winner.unity
     guid: 800a21cdf0009e049bd2d0a227fee838
+  - enabled: 1
+    path: Assets/Tilemap 2 (2).unity
+    guid: bf6180f3deaef5d4ca336449f0117acd
   m_configObjects: {}

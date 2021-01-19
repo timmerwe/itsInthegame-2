@@ -19,7 +19,7 @@ public class healthboss : MonoBehaviour
     {
         if (enemycurrenthealth <= 0)
         {
-            SceneManager.LoadScene(10);
+            SceneManager.LoadScene(11);
         }
     }
 
