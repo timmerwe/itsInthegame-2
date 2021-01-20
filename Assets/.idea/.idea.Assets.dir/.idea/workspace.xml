@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RF Castle/Sliced/Palettes/Ground.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/RF Castle/Sliced/Palettes/Ground.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StartScreen.unity" beforeDir="false" afterPath="$PROJECT_DIR$/StartScreen.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/GridBrush/UnityEditor.Tilemaps.GridBrush.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/69ec85-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/Hierarchy/69ec85-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/StateCache/SceneView/28e348-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/StateCache/SceneView/28e348-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-    </list>
+    <list default="true" id="50ae11d3-49db-4606-9bc9-51d149fcf413" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,27 +11,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/LevelLoader9.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MovementBoss.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Muziek.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/speler/hurtboss.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Movement/Assets/movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Muziek.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MovementBoss.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Free_Pack/Demo_GameResource/Script/CharacterController_2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelLoader2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/speler/hpbar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelLoader9.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LevelLoader3.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/movement.cs" />
-        <option value="$PROJECT_DIR$/MovementBoss.cs" />
-        <option value="$PROJECT_DIR$/randomizer.cs" />
-        <option value="$PROJECT_DIR$/random.cs" />
-        <option value="$PROJECT_DIR$/AnimationDetection.cs" />
-        <option value="$PROJECT_DIR$/attack_2.cs" />
-        <option value="$PROJECT_DIR$/random_time.cs" />
-        <option value="$PROJECT_DIR$/Muziek.cs" />
-        <option value="$PROJECT_DIR$/MouseHover.cs" />
-      </list>
-    </option>
+    <changedPaths>
+      <option value="$PROJECT_DIR$/timer.cs" />
+    </changedPaths>
   </component>
   <component name="ProjectId" id="1lh6fVpT93ngrmRkx98NrLntJDY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,6 +65,8 @@
       <workItem from="1611049373066" duration="1703000" />
       <workItem from="1611053376827" duration="857000" />
       <workItem from="1611072102000" duration="144000" />
+      <workItem from="1611136825491" duration="207000" />
+      <workItem from="1611138925267" duration="60000" />
     </task>
     <servers />
   </component>

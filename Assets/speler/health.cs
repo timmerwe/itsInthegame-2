@@ -19,7 +19,7 @@ public class health : MonoBehaviour{
     {
         if(playercurrenthealth <= 0)
         {
-            SceneManager.LoadScene(2);
+            SceneManager.LoadScene(3);
         }
     }
 

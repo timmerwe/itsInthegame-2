@@ -13,6 +13,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../speler/movement.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../speler/hurtboss.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../speler/health.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/aanval.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../speler/hurtenemy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/healthenemy.cs" root0="SKIP_HIGHLIGHTING" />
@@ -22,6 +23,7 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/../speler/hurtboss.cs" />
       <option value="$PROJECT_DIR$/healthboss.cs" />
+      <option value="$PROJECT_DIR$/../speler/health.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nEr3DN0ZEecXxAxFp6BuJFvPK3" />
@@ -51,6 +53,7 @@
       <workItem from="1611070458555" duration="1000" />
       <workItem from="1611070483732" duration="190000" />
       <workItem from="1611071107062" duration="183000" />
+      <workItem from="1611137289638" duration="380000" />
     </task>
     <servers />
   </component>
